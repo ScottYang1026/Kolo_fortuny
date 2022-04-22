@@ -1,0 +1,8 @@
+C:\Project\Kolo_fortuny-master\Kolo_fortuny\bin\Release\Kolo_fortuny.exe.config
+C:\Project\Kolo_fortuny-master\Kolo_fortuny\bin\Release\Kolo_fortuny.exe
+C:\Project\Kolo_fortuny-master\Kolo_fortuny\bin\Release\Kolo_fortuny.pdb
+C:\Project\Kolo_fortuny-master\Kolo_fortuny\obj\Release\Kolo_fortuny.Form1.resources
+C:\Project\Kolo_fortuny-master\Kolo_fortuny\obj\Release\Kolo_fortuny.Properties.Resources.resources
+C:\Project\Kolo_fortuny-master\Kolo_fortuny\obj\Release\Kolo_fortuny.csproj.GenerateResource.Cache
+C:\Project\Kolo_fortuny-master\Kolo_fortuny\obj\Release\Kolo_fortuny.exe
+C:\Project\Kolo_fortuny-master\Kolo_fortuny\obj\Release\Kolo_fortuny.pdb
